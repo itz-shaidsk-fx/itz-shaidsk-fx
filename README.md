@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shaid SK 👋</h1>
+<h1 align="center">Hi, I'm Shaid SK👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=Forex+Strategist+%7C+Automation+Engineer;Trading+%2B+Tech+%3D+Smart+Growth;Building+XAUUSD+Tools+%F0%9F%92%B0;Focused+on+Discipline+%26+Systems;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
@@ -31,9 +31,6 @@ Let’s grow by simplifying and systemizing our edge.
 | Project         | Focus Area                  | What It Does |
 |----------------|-----------------------------|--------------|
 | **xauusd-ss**  | XAUUSD Strategy Insights     | Visual snap system to analyze trade zones |
-| **AuthSecure** | Security Automation          | Email OTP & user auth layer for tools |
-| **ToDoX**      | Daily Discipline Tracking    | Task reminders to ensure routines stick |
-| **DevProfile Analyzer** | Learning Tracker  | Review coding journey and skill frequency |
 
 ---
 
@@ -63,12 +60,8 @@ Let’s grow by simplifying and systemizing our edge.
 ### 📦 Featured Work
 
 <div align="center">
-  <a href="https://github.com/itz-shaidsk-fx/xauusd-ss">![IMG-20250421-WA0031](https://github.com/user-attachments/assets/b4727942-be55-4024-8c81-23d48056c207)
+  <a href="https://github.com/itz-shaidsk-fx/xauusd-ss">
 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itz-shaidsk-fx&repo=xauusd-ss&theme=dark" />
-  </a>
-  <a href="https://github.com/itz-shaidsk-fx/AuthSecure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itz-shaidsk-fx&repo=AuthSecure&theme=dark" />
   </a>
 </div>
 
@@ -86,7 +79,7 @@ Let’s grow by simplifying and systemizing our edge.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/)  
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=flat)](https://twitter.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=flat)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=flat)](https://instagram.com/itz.shaidsk.fx)
 
 ---
 
