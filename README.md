@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaid SK👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=Forex+Strategist+%7C+Automation+Engineer;Trading+%2B+Tech+%3D+Smart+Growth;Building+XAUUSD+Tools+%F0%9F%92%B0;Focused+on+Discipline+%26+Systems;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Universe!;Forex+Strategist+%7C;Trading+%2B+Discipline+%3D+Smart+Growth;Building+XAUUSD+Tools+%F0%9F%92%B0;Focused+on+Discipline+%26+Systems;" alt="Typing SVG" />
 </p>
 
 <p align="center">
