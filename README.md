@@ -103,7 +103,7 @@ Let’s grow by simplifying and systemizing our edge.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Focus gif" />
+  <img src="https://github.com/itz-shaidsk-fx/itz-shaidsk-fx/blob/main/trading_gif.gif" width="2500" alt="Focus gif"/>
 </p>
 
 <p align="center"><em>“Don’t just trade — build habits, track progress, and automate what drains energy.”</em></p>
